@@ -4,6 +4,8 @@
 
 Interactive playground for programmatic manipulation of a 3D voxel grid.
 
+[Try it out!](https://s809.github.io/voxel-playground/)
+
 ![Preview](preview.png)
 
 ## Quick Start
